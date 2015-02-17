@@ -1,7 +1,16 @@
-//var genre = 'fantasy';
+//--------- Task1 -------
+var bookTitle = 'The Notebook';
+var authorName = 'Nicholas Sparks';
+var numberOfPages = 593;
+var isFiction = 'false';
+var publishingYear = 1996;
+
+// -------- Task2 -------- 
+
+var genre = 'fantasy';
 //var genre = 'novel';
 //var genre = 'comics';
-var genre = 'biographical';
+//var genre = 'biographical';
 
 if (genre == 'fantasy'){
 	console.log('The Hobbit');
